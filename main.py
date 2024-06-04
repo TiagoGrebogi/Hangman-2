@@ -1,6 +1,5 @@
 import pygame as pg
 
-# Inicializa o Pygame
 pg.init()
 
 # Configurações da tela para preencher 100% da tela
